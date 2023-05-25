@@ -1,8 +1,9 @@
 {
   "name": "tuzitheme",
   "displayName": "tuziTheme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "tuziTheme",
+  "publisher": "457341620",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -17,5 +18,6 @@
         "path": "./themes/457341620-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "git@github.com:457341620/tuziTheme.git"
 }
