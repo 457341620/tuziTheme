@@ -1,0 +1,21 @@
+{
+  "name": "tuzitheme",
+  "displayName": "tuziTheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "457341620",
+        "uiTheme": "vs",
+        "path": "./themes/457341620-color-theme.json"
+      }
+    ]
+  }
+}
