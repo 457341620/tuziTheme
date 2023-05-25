@@ -3,7 +3,7 @@
   "displayName": "tuziTheme",
   "description": "tuziTheme",
   "publisher": "457341620",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.78.0"
   },
