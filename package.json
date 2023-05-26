@@ -3,9 +3,9 @@
   "displayName": "tuziTheme",
   "description": "tuziTheme",
   "publisher": "457341620",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "engines": {
-    "vscode": "^1.78.0"
+    "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
