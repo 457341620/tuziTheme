@@ -205,24 +205,6 @@
 		}
 	  },
 	  {
-		"name": "String",
-		"scope": [
-		  "string.quoted",
-		  "string.template",
-		  "punctuation.definition.string"
-		],
-		"settings": {
-		  "foreground": "#DC322F"
-		}
-	  },
-	  {
-		"name": "Punctuation within templates",
-		"scope": "string.template meta.embedded.line",
-		"settings": {
-		  "foreground": "#DC322F"
-		}
-	  },
-	  {
 		"name": "Punctuation",
 		"scope": "punctuation",
 		"settings": {
