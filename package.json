@@ -13,9 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "457341620",
+        "label": "RabbitWebstorm",
         "uiTheme": "vs",
         "path": "./themes/457341620-color-theme.json"
+      },
+      {
+        "label": "RabbitAntd",
+        "uiTheme": "vs",
+        "path": "./themes/antdVscode.json"
       }
     ]
   },
