@@ -1,9 +1,9 @@
 {
-  "name": "tuzitheme",
-  "displayName": "tuziTheme",
-  "description": "tuziTheme",
+  "name": "rabbittheme",
+  "displayName": "rabbittheme",
+  "description": "rabbittheme",
   "publisher": "457341620",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
   },

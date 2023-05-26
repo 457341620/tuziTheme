@@ -1,6 +1,6 @@
 # tuzitheme README
 
-## 
+## vscode pulish vsce package
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
